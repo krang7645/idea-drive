@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@heroicons/react": "^2.2.0",
+    "@netlify/plugin-nextjs": "^5.10.2",
     "@types/uuid": "^10.0.0",
     "dayjs": "^1.11.13",
     "next": "15.2.4",
